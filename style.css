@@ -1,0 +1,12 @@
+form{
+    background-color: antiquewhite;
+}
+
+input[type="password"], [type="text"]{
+    margin-left: 100px;
+}
+
+label{
+    display: inline-block;
+    width: 10px;
+}
