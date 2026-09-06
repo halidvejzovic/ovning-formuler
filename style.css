@@ -2,11 +2,16 @@ form{
     background-color: antiquewhite;
 }
 
-input[type="password"], [type="text"]{
+input[type="password"], [type="text"], [type="email"]{
     margin-left: 100px;
 }
 
 label{
     display: inline-block;
-    width: 60px;
+    width: 40px;
+}
+
+.radio{
+    display: inline-block;
+    width: 80px;
 }
